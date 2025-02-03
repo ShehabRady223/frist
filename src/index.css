@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+.active {
+  color: #fff !important;
+  padding: 10px 20px !important;
+  border-radius: 5px;
+  background-color: #1ABC9C !important;
+  transition: all 0.5s;
+}

@@ -1,0 +1,25 @@
+
+.b {
+    background-color: #fff;
+}
+
+.h {
+    color: #2C3E50;
+    font-size: 40px;
+    font-weight: 700;
+}
+
+.line {
+    display: inline-block;
+    height: 4px;
+    width: 80px;
+    background-color: #2C3E50;
+}
+
+.s{
+    text-align: left;
+    margin-top: 30px;
+    font-size: 16px;
+    font-weight: 400;
+}
+
