@@ -1,6 +1,6 @@
 import React from 'react'
 import me from '../../assets/download.svg'
-import style from './Home.module.css'
+import style from './home.module.css'
 
 export default function Home() {
     return (
